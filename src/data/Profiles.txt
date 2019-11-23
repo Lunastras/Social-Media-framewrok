@@ -1,0 +1,11 @@
+John,Meadows,12,5,1962,asdf,asfs,asdss,no@gmail.com,joke1;coursework1;interest1;anotherinterest1
+Alexis,Meadows,1,3,1462,asdf,asfs,asdss,fas@gmail.com,joke2;coursework2;interest2;anotherinterest2
+Marc,Meadows,10,6,1262,asdf,asfs,asdss,fa@gmail.com,joke3;coursework3;interest3;anotherinterest3
+Dan,Meadows,1,5,1762,asdf,asfs,asdss,fa@gmail.com,joke4;coursework4;interest4;anotherinterest4
+Evans,Meadows,2,5,2962,asdf,asfs,asdss,fa@gmail.com,joke5;coursework5;interest5;anotherinterest5
+Bogdan,Meadows,1,2,9962,asdf,asfs,asdss,fa@gmail.com,joke6;coursework6;interest6;anotherinterest6
+Owen,Meadows,4,4,4442,asdf,asfs,asdss,fasf@gmail.com,joke7;coursework7;interest7;anotherinterest7
+Ben,Meadows,12,6,2062,asdf,asfs,asdss,fa@gmail.com,joke8;coursework8;interest8;anotherinterest8
+Andrew,Meadows,12,2,1962,asdf,asfs,asdss,fa@gmail.com,joke9;coursework9;interest9;anotherinterest9
+Jennifer,Meadows,12,6,3062,asdf,asfs,asdss,fas@gmail.com,joke10;coursework10;interest10;anotherinterest10
+Johnny,Meadows,12,9,9062,asdf,asfs,asdss,fasf@gmail.com,joke11;coursework11;interest11;anotherinterest11
